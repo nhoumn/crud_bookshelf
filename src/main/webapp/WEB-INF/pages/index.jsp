@@ -50,7 +50,7 @@
                 <%--<th width=10%>ISBN</th>--%>
                 <th width=15%>Год издания</th>
                 <th width=15%>Статус</th>
-                <th width=25%>Действия</th>
+                <th width=25%></th>
                 <%--<th width=5%></th>--%>
                 <%--<th width=5%></th>--%>
             </tr>
